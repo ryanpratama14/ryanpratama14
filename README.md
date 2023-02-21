@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/ryanpratama14/">
         <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
        <a href="https://www.instagram.com/ryanpratama14/">
-        <img alt="telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png"/></a> 
+        <img alt="telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
     <a href="https://t.me/ryanpratama14/">
         <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://twitter.com/totorogoriorio">
