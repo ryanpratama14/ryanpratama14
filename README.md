@@ -3,23 +3,26 @@
 **`Front-End Developer`**
 
 **`Contacts`**
+
 <p align="left">
-    <a href="https://www.instagram.com/ryanpratama14/">
+    <a 
+    target="_blank"
+    href="https://www.instagram.com/ryanpratama14/">
         <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-       <a href="https://www.instagram.com/ryanpratama14/">
+       <a  target="_blank"
+       href="https://www.instagram.com/ryanpratama14/">
         <img alt="telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-    <a href="https://t.me/ryanpratama14/">
+    <a  target="_blank" href="https://t.me/ryanpratama14/">
         <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://twitter.com/totorogoriorio">
+    <a  target="_blank" href="https://twitter.com/totorogoriorio">
         <img alt="twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ryanpratama14/">
+    <a  target="_blank" href="https://www.linkedin.com/in/ryanpratama14/">
         <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
