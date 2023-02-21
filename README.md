@@ -1,11 +1,14 @@
 # Hi! I'm Ryan
 
-**`Front-End Developer`**.
+**`Front-End Developer`**
 
+**`Contacts`**
 <p align="left">
     <a href="https://www.instagram.com/ryanpratama14/">
         <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-    <a href="https://www.facebook.com/ryanpratama1407">
+       <a href="https://www.instagram.com/ryanpratama14/">
+        <img alt="telegram" title="Telegram" src="h[ttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png)"/></a> 
+    <a href="https://t.me/ryanpratama14/">
         <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://twitter.com/totorogoriorio">
         <img alt="twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
