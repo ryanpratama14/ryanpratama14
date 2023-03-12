@@ -50,6 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ryanpratama14&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F221E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 
+[![wakatime](https://wakatime.com/badge/user/40874dc9-910f-4112-b71a-987a41aeb6ce.svg)](https://wakatime.com/@40874dc9-910f-4112-b71a-987a41aeb6ce)
 [![ryanpratama14's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanpratama14&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
