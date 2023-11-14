@@ -1,6 +1,6 @@
 # Hi! I'm Ryan
 
-**`Front-End Developer`**
+**`Frontend Engineer`**
 
 **`Contacts`**
 
