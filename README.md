@@ -46,3 +46,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ryanpratama14&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F221E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
+
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpratama14&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryanpratama14&theme=react&hide_border=false)<br/>
+
