@@ -43,8 +43,8 @@ Started coding in Kazan through a free JavaScript course, then co-founded **faoT
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanpratama14&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpratama14&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ryanpratama14&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ryanpratama14&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -52,15 +52,15 @@ Started coding in Kazan through a free JavaScript course, then co-founded **faoT
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanpratama14&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ryanpratama14&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanpratama14&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity" />
+  <img src="https://github-act-graph.rodriaum.com/graph?username=ryanpratama14&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity" />
 </div>
 
 <div align="center">
   <a href="https://wakatime.com/@ryanpratama14">
-    <img src="https://wakatime.com/badge/user/ryanpratama14.svg?style=for-the-badge" alt="WakaTime" />
+    <img src="https://wakatime.com/badge/user/40874dc9-910f-4112-b71a-987a41aeb6ce.svg?style=for-the-badge" alt="WakaTime" />
   </a>
 </div>
