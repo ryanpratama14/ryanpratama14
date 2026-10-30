@@ -4,7 +4,7 @@
 
 I ship full-stack web applications, weave AI into the products I build, and use AI tools every day to move faster without cutting corners on quality.
 
-[Resume-like Portfolio Website](https://ryanpratama.my.id) · [Email](mailto:ryanpratama.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ryanpratama14) · [WakaTime](https://wakatime.com/@ryanpratama14)
+[Resume-like Portfolio Website](https://ryanpratama.my.id) · [Email](mailto:ru.ryanpratama@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ryanpratama14) · [WakaTime](https://wakatime.com/@ryanpratama14)
 
 ---
 
