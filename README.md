@@ -12,12 +12,12 @@ I ship full-stack web applications, weave AI into the products I build, and use 
 
 Started coding in Kazan through a free JavaScript course, then co-founded **faoTech** in 2022. Began on the frontend, grew into backend work, and now deliver end-to-end products with AI in both the application and the workflow.
 
-| | |
-| --- | --- |
-| **Experience** | Since 2022 · ~4 YoE |
-| **Focus** | Full-stack · Frontend · AI-assisted development |
-| **Languages** | Indonesian · English · Russian · Japanese |
-| **Education** | Kazan Federal University — B.A. Management |
+|                |                                                 |
+| -------------- | ----------------------------------------------- |
+| **Experience** | Since 2022 · ~4 YoE                             |
+| **Focus**      | Full-stack · Frontend · AI-assisted development |
+| **Languages**  | Indonesian · English · Russian · Japanese       |
+| **Education**  | Kazan Federal University — B.A. Management      |
 
 ---
 
